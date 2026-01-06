@@ -2,6 +2,8 @@
 - [[Zombie Apocolypse]]
 - [[Cali Speed Rail]]
 - [[How mnay holes in a straw truly]]
+- [[Cant afford a house, design a tiny one]]
+- [[]]
 
 # Games
 - [[Fent Fiend Kills a fuck ton of people (Baldurs Gate 3)]]
