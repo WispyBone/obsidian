@@ -18,7 +18,7 @@
 - [[Kenshi]]
 - [[Peak]]
 - [[Noita]]
-- [[Project ZOmboid]]
+- [[Can the amish survive the zombie apocolypse? (Project Zomboid)]]
 - [[Rain World]]
 - [[Another Crabs Treasure]]
 - [[Death Stranding]]
