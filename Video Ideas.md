@@ -3,7 +3,9 @@
 - [[Cali Speed Rail]]
 - [[How mnay holes in a straw truly]]
 - [[Cant afford a house, design a tiny one]]
-- [[]]
+- [[How to make a streaming service]]
+- [[Mangadex is becoming Crunchyroll, making a manga server]]
+- 
 
 # Games
 - [[Fent Fiend Kills a fuck ton of people (Baldurs Gate 3)]]
@@ -18,7 +20,7 @@
 - [[Kenshi]]
 - [[Peak]]
 - [[Noita]]
-- [[Can the amish survive the zombie apocolypse? (Project Zomboid)]]
+- [[Can the amish survive the zombie apocolypse (Project Zomboid)]]
 - [[Rain World]]
 - [[Another Crabs Treasure]]
 - [[Death Stranding]]
@@ -27,3 +29,4 @@
 - [[pacific drive]]
 - [[kingdom come deliverence]]
 - [[Deltarune]]
+- [[Mewgenics]]
