@@ -1,15 +1,15 @@
 # Talking videos
-- [[Zombie Apocolypse]]
+- [[Zombie Apocolypse scenario]]
 - [[Cali Speed Rail]]
 - [[How mnay holes in a straw truly]]
 - [[Cant afford a house, design a tiny one]]
 - [[How to make a streaming service]]
 - [[Mangadex is becoming Crunchyroll, making a manga server]]
-- 
+- [[making a chat room game on the web]]
 
 # Games
 - [[Fent Fiend Kills a fuck ton of people (Baldurs Gate 3)]]
-- [[New Vegas]]
+- [[Executing everyone in the Epstein list (New Vegas)]]
 - [[Fallout 4]]
 - [[Stardew Valley]]
 - [[CIA agent attmepts to poison town  (Schedule I)]]
@@ -30,3 +30,4 @@
 - [[kingdom come deliverence]]
 - [[Deltarune]]
 - [[Mewgenics]]
+- [[half life]]
