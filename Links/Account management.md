@@ -1,0 +1,8 @@
+- YouTube
+- Instagram
+- Steam
+- Discord
+- Website
+- GitHub
+- Roblox
+- Minecraft
