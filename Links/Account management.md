@@ -1,8 +1,8 @@
-- YouTube
-- Instagram
-- Steam
-- Discord
-- Website
-- GitHub
-- Roblox
-- Minecraft
+- [x] YouTube
+- [x] Instagram
+- [x] Steam
+- [x] Discord
+- [ ] Website
+- [x] GitHub
+- [ ] Roblox
+- [x] Minecraft

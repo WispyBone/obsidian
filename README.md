@@ -3,3 +3,4 @@
 [[Video Ideas]]
 [[Work per day]]
 [[Account management]]
+[[channel planning.canvas]]

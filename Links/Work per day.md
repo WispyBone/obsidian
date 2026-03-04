@@ -1,9 +1,9 @@
-- [ ] Math
+- [x] Math
 - [x] English
 - [x] Physics
 - [ ] History
-- [ ] AP Computer Science
+- [x] AP Computer Science
 - [x] Intro to Engineering
 - [x] Band
-- [ ] SAT
+- [x] SAT
 - [ ] Applications
