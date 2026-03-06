@@ -7,3 +7,4 @@
 - [x] Band
 - [ ] SAT - scheudle
 - [ ] Applications - berkeley - nyu - stevens university - ring (meera) - 
+- [ ] 
