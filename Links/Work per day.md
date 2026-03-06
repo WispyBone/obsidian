@@ -1,9 +1,9 @@
-- [x] Math
-- [x] English
+- [ ] Math - hw and print other
+- [ ] English - vocab practice
 - [x] Physics
-- [ ] History
+- [ ] History - leq
 - [x] AP Computer Science
 - [x] Intro to Engineering
 - [x] Band
-- [x] SAT
-- [ ] Applications
+- [ ] SAT - scheudle
+- [ ] Applications - berkeley - nyu - stevens university - ring (meera) - 
