@@ -1,9 +1,11 @@
-- [ ] Math - hw and print other
-- [ ] English - vocab practice
-- [x] Physics
+- [x] Math - hw and print other
+- [x] English - vocab practice
+- [ ] Physics
 - [ ] History - leq
 - [x] AP Computer Science
 - [x] Intro to Engineering
-- [x] Band
+- [ ] Band - WE audition practice
 - [ ] SAT - scheudle
 - [ ] Applications - berkeley - nyu - stevens university - ring (meera) - 
+- [ ] change schedule for cybersecurity
+[[Daily schedule]]
