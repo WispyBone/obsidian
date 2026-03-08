@@ -1,5 +1,5 @@
 - [ ] Math - hw and print other
-- [ ] English - vocab practice
+- [x] English - vocab practice
 - [x] Physics
 - [ ] History - leq
 - [x] AP Computer Science
