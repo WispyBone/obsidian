@@ -5,5 +5,5 @@
 - [x] AP Computer Science
 - [x] Intro to Engineering
 - [x] Band
-- [ ] SAT - scheudle
-- [ ] Applications - berkeley - nyu - stevens university - ring (meera) - 
+- [x] SAT - scheudle
+- [x] Applications  - nyu - stevens university - ring (meera) - 

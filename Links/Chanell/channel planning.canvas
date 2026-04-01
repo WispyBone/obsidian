@@ -1,21 +1,21 @@
 {
 	"nodes":[
 		{"id":"87e31edccdde8c41","type":"group","x":-600,"y":-480,"width":1640,"height":1080,"label":"Character Design"},
+		{"id":"fbbd447c4a4adfca","type":"text","text":"8 limbs like an ootpus","x":578,"y":70,"width":250,"height":60},
+		{"id":"48be6953a2b40c43","type":"file","file":"Main/Links/Chanell/Pasted image 20260302100929.png","x":779,"y":-369,"width":225,"height":400},
+		{"id":"d06a2b9ff0faa48a","type":"text","text":"Small lights coming out of skull like fireflies","x":638,"y":-460,"width":366,"height":50},
+		{"id":"c7d5464071f5af50","type":"file","file":"Main/Links/Chanell/Pasted image 20260302100301.png","x":739,"y":170,"width":265,"height":400},
 		{"id":"ddc5af049c25c077","type":"file","file":"Main/Links/Chanell/Pasted image 20260302093824.png","x":-580,"y":165,"width":289,"height":400},
 		{"id":"2a909eb29c6f21f6","type":"text","text":"Mycleium wrapped around broken ribs to act as leg","x":-498,"y":70,"width":420,"height":50},
 		{"id":"faeee16da00b1c17","type":"text","text":"root tendrils to act as leg","x":39,"y":60,"width":250,"height":60},
 		{"id":"00c0ea727ffd2e0f","type":"text","text":"Skull with fungi coming out","x":29,"y":-460,"width":250,"height":50},
 		{"id":"11500be6fb6a54ef","type":"file","file":"Main/Links/Chanell/Pasted image 20260302092302.png","x":-566,"y":-369,"width":300,"height":400},
 		{"id":"5557513fe24c4b87","type":"file","file":"Main/Links/Chanell/Pasted image 20260302092232.png","x":-246,"y":-369,"width":400,"height":400},
-		{"id":"fbbd447c4a4adfca","type":"text","text":"8 limbs like an ootpus","x":578,"y":70,"width":250,"height":60},
-		{"id":"48be6953a2b40c43","type":"file","file":"Main/Links/Chanell/Pasted image 20260302100929.png","x":779,"y":-369,"width":225,"height":400},
-		{"id":"d06a2b9ff0faa48a","type":"text","text":"Small lights coming out of skull like fireflies","x":638,"y":-460,"width":366,"height":50},
 		{"id":"96adef5a311c9cfa","type":"file","file":"Main/Links/Chanell/Pasted image 20260302094650.png","x":-266,"y":165,"width":247,"height":400},
 		{"id":"563fa849dc8d6090","type":"file","file":"Main/Links/Chanell/Pasted image 20260302093341.png","x":174,"y":-369,"width":283,"height":400},
-		{"id":"7ed7110ae553b522","type":"file","file":"Main/Links/Chanell/Pasted image 20260302093509.png","x":474,"y":-369,"width":265,"height":399},
 		{"id":"da78faf5e03565fa","type":"file","file":"Main/Links/Chanell/Pasted image 20260302094415.png","x":10,"y":165,"width":308,"height":400},
 		{"id":"f4fea3c5c0c0ceba","type":"file","file":"Main/Links/Chanell/Pasted image 20260302094948.png","x":360,"y":170,"width":343,"height":400},
-		{"id":"c7d5464071f5af50","type":"file","file":"Main/Links/Chanell/Pasted image 20260302100301.png","x":739,"y":170,"width":265,"height":400}
+		{"id":"7ed7110ae553b522","type":"file","file":"Main/Links/Chanell/Pasted image 20260302093509.png","x":474,"y":-369,"width":265,"height":399}
 	],
 	"edges":[]
 }
