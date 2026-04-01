@@ -1,0 +1,8 @@
+- AP cs: print out math hw and look up the previous vocab. Look into the schedule change
+- English: study before class and read life of pi
+- math: pick up hw at brunch
+- band: meesgae parents about pre colleges options, get there early and practice WE auditon music
+- engineering: do work
+- physics: lab
+- after school: immediately go to itea place and go to band room. Work on math homework and then go practice audition music.
+- after 9: immediately go to sleep after a shower
