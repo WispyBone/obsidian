@@ -1,1 +1,2 @@
 - Chess based game. Builds on the inhrent skjill and stategy around chess. 
+- Scorpion game. Control the body and claws with arrow keys and tail with mouse.
