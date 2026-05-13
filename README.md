@@ -4,3 +4,4 @@
 [[Work per day]]
 [[Account management]]
 [[channel planning.canvas]]
+[[hypothetical magic mushroom series]]
