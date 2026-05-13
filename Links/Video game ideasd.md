@@ -1,0 +1,1 @@
+- Chess based game. Builds on the inhrent skjill and stategy around chess. 
