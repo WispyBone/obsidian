@@ -4,6 +4,6 @@ links for parts:
 [xp-pen](https://www.xp-pen.com/store/buy/artist-12-3rd.html) or [gaomon](https://gaomon.net/products/pd1220-pen-display?variant=46119671497009)
 [keypad](https://www.amazon.com/12-Mechanical-Programmable-Swappable-Keyboard/dp/B09NRQQFHW?sr=8-11)
 [batteyrs (insert later)]
-![[Screenshot 2026-05-20 at 4.55.43 PM.png]]
+![[Drawing 2026-06-01 02.33.17.excalidraw]]
 from top left to bottom right:
-keypad, drawing tablet, trackball, pen/otherstorage, battery (Pi is behind)
+keypad, drawing tablet, trackball, pen/otherstorage, battery (Pi is behind)!
